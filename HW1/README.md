@@ -1,0 +1,1 @@
+The Python notebook `ramesh_hw1.ipynb` is designed to be run from start to finish to produce all figures in the report as well as the outputs for the Kaggle competition. The Kaggle competition entry for the NumPy linear regression is in `rmsh_np.csv`. The entry for the PyTorch linear regression is in `rmsh_pytorch.csv`.
