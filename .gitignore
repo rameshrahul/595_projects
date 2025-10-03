@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+
+# Git
+.git/
+
+# Temporary files
+*.tmp
+*.swp
+
+
+*.swo
+
+# Ignore CSV files under HW1 (recursively)
+/HW1/**/*.csv
+/HW1/**/*.tsv
+
+# Ignore .txt and .gz files under HW2 (recursively)
+/HW2/**/*.txt
+/HW2/**/*.gz
