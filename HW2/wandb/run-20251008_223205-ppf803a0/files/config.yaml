@@ -1,0 +1,51 @@
+_wandb:
+    value:
+        cli_version: 0.22.0
+        e:
+            su7tn4zaregfd9sipcfks8o6xaenwhh5:
+                cpu_count: 10
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "499462959104"
+                        used: "401343299584"
+                email: rmsh@umich.edu
+                executable: C:\Users\User\anaconda3\python.exe
+                git:
+                    commit: ccb648f2c8d3dc6215ac5be6fcdf065720763af9
+                    remote: git@github.com:rameshrahul/595_projects.git
+                host: DESKTOP-AV00LQI
+                memory:
+                    total: "34122387456"
+                os: Windows-10-10.0.19045-SP0
+                program: Documents/Projects/595_projects/HW2/Word2Vec Pytorch Student.ipynb
+                python: CPython 3.12.7
+                root: C:\Users\User\Documents\Projects\595_projects\HW2
+                startedAt: "2025-10-09T02:32:05.608283Z"
+                writerId: su7tn4zaregfd9sipcfks8o6xaenwhh5
+        m: []
+        python_version: 3.12.7
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 1
+                - 2
+                - 16
+            "4": 3.12.7
+            "5": 0.22.0
+            "8":
+                - 1
+                - 3
+            "12": 0.22.0
+            "13": windows-amd64
+batch_size:
+    value: 1028
+epochs:
+    value: 1

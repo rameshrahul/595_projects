@@ -1,0 +1,26 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.12.7",
+  "startedAt": "2025-10-09T02:32:05.608283Z",
+  "program": "Documents/Projects/595_projects/HW2/Word2Vec Pytorch Student.ipynb",
+  "git": {
+    "remote": "git@github.com:rameshrahul/595_projects.git",
+    "commit": "ccb648f2c8d3dc6215ac5be6fcdf065720763af9"
+  },
+  "email": "rmsh@umich.edu",
+  "root": "C:\\Users\\User\\Documents\\Projects\\595_projects\\HW2",
+  "host": "DESKTOP-AV00LQI",
+  "executable": "C:\\Users\\User\\anaconda3\\python.exe",
+  "cpu_count": 10,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "499462959104",
+      "used": "401343299584"
+    }
+  },
+  "memory": {
+    "total": "34122387456"
+  },
+  "writerId": "su7tn4zaregfd9sipcfks8o6xaenwhh5"
+}
