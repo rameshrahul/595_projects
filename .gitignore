@@ -41,3 +41,5 @@ Thumbs.db
 # Ignore .txt and .gz files under HW2 (recursively)
 /HW2/**/*.txt
 /HW2/**/*.gz
+
+/HW2/wandb/
